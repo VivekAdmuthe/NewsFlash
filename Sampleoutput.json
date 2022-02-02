@@ -1,0 +1,39 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "Le flash sports du 11 septembre",
+      "description": "Retrouvez l'essentiel de l'actualité sportive avec notre flash sports quotidien.",
+      "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-11-septembre/1284462",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/le-flash-sports-l-equipe/1500000001540689/0:0,1498:999-640-427-75/afa20.jpg",
+      "publishedAt": "2021-09-10T22:39:00+00:00",
+      "content": "En Ligue 1, le LOSC chute à Lorient et ne se rassure pas avant le début de la Ligue des champions. À l'US Open, la finale entre Emma Raducanu et Leylah Fernandez est déjà dans l'histoire. En Formule … [+256 chars]"
+    },
+    {
+      "source": { "id": "google-news-uk", "name": "Google News (UK)" },
+      "author": "John Dunne",
+      "title": "Boris Johnson to publish winter Covid battle plan including vaccine passports",
+      "description": "Boris Johnson is set to publish a Covid battle plan to deal with a “difficult time” with the virus this winter.",
+      "url": "https://www.standard.co.uk/news/uk/boris-johnson-winter-covid-plan-vaccine-passports-b954765.html",
+      "urlToImage": "https://static.standard.co.uk/2021/08/23/12/d5d1ea53a46deeff7ae7a0f095caa6e1Y29udGVudHNlYXJjaGFwaSwxNjI5ODAyMzM0-2.56197538.jpg?width=1200&width=1200&auto=webp&quality=75",
+      "publishedAt": "2021-09-10T16:38:50+00:00",
+      "content": "Boris Johnson is set to publish a Covid battle plan to deal with a difficult time with the virus this winter. \r\nAmong the measures likely to be included are jabs for younger teenagers, a booster prog… [+1668 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times http://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": "https://bsmedia.business-standard.com/media-handler.php?mediaPath=https://bsmedia.business-standard.com/_media/bs/img/article/2019-11/03/full/1572796865-0693.jpg&width=1200",
+      "publishedAt": "2021-02-10T03:52:37.2719772Z",
+      "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+    }
+  ]
+}
