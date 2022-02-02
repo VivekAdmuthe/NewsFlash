@@ -58,9 +58,9 @@ const [totalResults, setTotalResults] = useState(0)
         </div>
         
         <InfiniteScroll
-          dataLength={articles.length}
+          dataLength={JSON.stringify(articles).length}
           next={fetchMoreData}
-          hasMore={articles.length !== totalResults}
+          hasMore={JSON.stringify(articles).length !== totalResults}
           loader={<h4><Spinner/></h4>}
         >
           <div className="container">
